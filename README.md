@@ -103,7 +103,7 @@ B --> G[Authentication Layer]
 
 ### Deployment
 - Vercel
-- Render
+or if you are comfortable with Render then use Render for Backend
 
 ---
 
